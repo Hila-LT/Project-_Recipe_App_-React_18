@@ -10,10 +10,7 @@ label {
 }
 
 header {
-  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
-  font-family: 'Playfair Display SC';
-  font-size: 64px
-
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);  
 }
 
 /* typography */
@@ -65,5 +62,7 @@ table {
 h1{
   text-align: center;
   border:  1px solid black;
+  font-family: 'Playfair Display SC';
+  font-size: 64px;
 }
 
