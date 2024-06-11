@@ -1,7 +1,7 @@
 import React from "react";
 import "./RecipeView.css";
 
-function PostView( {recipe,RecipeDelete,index} ) {
+function RecipeView( {recipe,RecipeDelete,index} ) {
 
     const imgStyle = {
         maxWidth: "100%",
@@ -28,4 +28,4 @@ function PostView( {recipe,RecipeDelete,index} ) {
 
 }
 
-export default PostView;
+export default RecipeView;
