@@ -1,0 +1,7 @@
+tr{
+    height:85px;
+    overflow: scroll
+}
+tr:nth-child(even) {
+    background-color: Lightyellow;
+}
