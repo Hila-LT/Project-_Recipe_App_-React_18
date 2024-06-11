@@ -13,7 +13,7 @@ function RecipeList({recipes, RecipeDelete}) {
             <div className="recipe-list">
               <table>
                 <thead>
-                  <tr>
+                  <tr  style={{textAlign:"center"}>
                       <th>Name</th>
                       <th>Cuisine</th>
                       <th>Photo</th>
