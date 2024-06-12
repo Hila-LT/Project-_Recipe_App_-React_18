@@ -8,7 +8,6 @@ function RecipeView( {recipe,RecipeDelete,index} ) {
         maxHeight: "100px",
     }
 
-        // <li  className="post" style={ {listStyleType: "none"}}
      return (
 
       <tr className="recipe"  alt="recipe image">
